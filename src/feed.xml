@@ -58,6 +58,7 @@
         <itunes:duration>01:18:46</itunes:duration>
                 <itunes:episode>1</itunes:episode>
         <itunes:episodeType>full</itunes:episodeType>
-        <itunes:image href="https://ministeriodaciencia.github.io/images/peixe-wavelet-gordo.png" />    </item>
+        <itunes:image href="https://ministeriodaciencia.github.io/images/peixe-wavelet-gordo.png" />
+    </item>
 </channel>
 </rss>
