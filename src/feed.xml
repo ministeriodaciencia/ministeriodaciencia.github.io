@@ -1,30 +1,63 @@
----
-layout: null
----
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="UTF-8"?><!-- generator="podbean/5.5" -->
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:spotify="http://www.spotify.com/ns/rss"
+     xmlns:media="http://search.yahoo.com/mrss/">
+
 <channel>
-  <title>{{ site.title | xml_escape }}</title>
-  <description>{{ site.description | xml_escape }}</description>
-  <link>{{ site.url }}{{ site.baseurl }}/</link>
-  <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
-  <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
-  <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
-  <generator>Jekyll v{{ jekyll.version }}</generator>
-  {% for post in site.posts limit:10 %}
+    <title>Ministério da Ciência</title>
+    <atom:link href="https://ministeriodaciencia.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <link>https://ministeriodaciencia.github.io</link>
+    <description>Por que 'tecnologia, inovações e comunicações' não é ciência</description>
+    <pubDate>Tue, 19 May 2020 01:04:22 -0300</pubDate>
+    <generator>https://podbean.com/?v=5.5</generator>
+    <language>en</language>
+        <copyright>Copyright 2020 All rights reserved.</copyright>
+    <category>Science</category>
+    <ttl>1440</ttl>
+    <itunes:type>episodic</itunes:type>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:summary>Por que 'tecnologia, inovações e comunicações' não é ciência</itunes:summary>
+    <itunes:author>ministeriodaciencia</itunes:author>
+<itunes:category text="Science"/>
+    <itunes:owner>
+        <itunes:name>ministeriodaciencia</itunes:name>
+        <itunes:email>ministeriopod@gmail.com</itunes:email>
+    </itunes:owner>
+	<itunes:block>No</itunes:block>
+	<itunes:explicit>yes</itunes:explicit>
+    <itunes:image href="https://ministeriodaciencia.github.io/images/peixe-wavelet-gordo.png" />
+    <image>
+        <url>https://ministeriodaciencia.github.io/images/peixe-wavelet-gordo.png</url>
+        <title>Ministério da Ciência</title>
+        <link>https://ministeriodaciencia.github.io</link>
+        <width>144</width>
+        <height>144</height>
+    </image>
     <item>
-      <title>{{ post.title | xml_escape }}</title>
-      <description>{{ post.content | xml_escape }}</description>
-      <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-      <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
-      <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
-      {% for tag in post.tags %}
-      <category>{{ tag | xml_escape }}</category>
-      {% endfor %}
-      {% for cat in post.categories %}
-      <category>{{ cat | xml_escape }}</category>
-      {% endfor %}
-    </item>
-  {% endfor %}
+        <title>Onde houver fé, que eu leve a dúvida</title>
+        <itunes:title>Onde houver fé, que eu leve a dúvida</itunes:title>
+        <link>https://ministeriodaciencia.podbean.com/e/onde-houver-fe-que-eu-leve-a-duvida/</link>
+        <comments>https://ministeriodaciencia.podbean.com/e/onde-houver-fe-que-eu-leve-a-duvida/#comments</comments>
+        <pubDate>Tue, 19 May 2020 01:04:22 -0300</pubDate>
+        <guid isPermaLink="false">ministeriodaciencia.podbean.com/93ebcf76-4e86-5b5d-b761-7ba86e1335b6</guid>
+                    <description><![CDATA[<p>Uma discussão sobre a confiança plena da ciência, ceticismo, negacionismo, e outras gradações mais ou menos embasadas de crença.</p><p> </p>]]></description>
+                        <content:encoded><![CDATA[<p>Uma discussão sobre a confiança plena da ciência, ceticismo, negacionismo, e outras gradações mais ou menos embasadas de crença.</p><p> </p>]]></content:encoded>
+
+        <enclosure url="https://ministeriodaciencia.github.io/files/MC1.mp3" length="75632011" type="audio/mpeg"/>
+        <itunes:subtitle>Uma discussão sobre a confiança plena da ciência, ceticismo, negacionismo, e outras gradações mais ou menos embasadas de crença. </itunes:subtitle>
+        <itunes:summary>Uma discussão sobre a confiança plena da ciência, ceticismo, negacionismo, e outras gradações mais ou menos embasadas de crença. </itunes:summary>
+        <itunes:author>ministeriodaciencia</itunes:author>
+        <itunes:explicit>yes</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>01:18:46</itunes:duration>
+                <itunes:episode>1</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://ministeriodaciencia.github.io/images/peixe-wavelet-gordo.png" />    </item>
 </channel>
 </rss>
