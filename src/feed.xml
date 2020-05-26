@@ -71,5 +71,36 @@
         <itunes:episodeType>full</itunes:episodeType>
         <itunes:image href="https://ministeriodaciencia.github.io/images/peixe-wavelet-gordo.png" />
     </item>
+    <item>
+        <title>Todos os modelos estão certos, alguns são inúteis</title>
+        <itunes:title>Todos os modelos estão certos, alguns são inúteis</itunes:title>
+        <link>https://ministeriodaciencia.github.io/posts/2020-05-25-todos-os-modelos-estao-certos.html</link>
+        <comments>https://ministeriodaciencia.github.io/posts/2020-05-25-todos-os-modelos-estao-certos.html</comments>
+        <pubDate>data</pubDate>
+        <guid isPermaLink="false">https://ministeriodaciencia.github.io/files/MC2.mp3</guid>
+        <description><![CDATA[
+        <p>Uma conversa entre dois cientistas que trabalham com modelos matemáticos e abordagens computacionais no tema da precisão de estimativas e previsões e limitações desse tipo de abordagem.</p><p> Notas e referências: <a href="https://ministeriodaciencia.github.io/posts/2020-05-25-todos-os-modelos-estao-certos.html">https://ministeriodaciencia.github.io/posts/2020-05-25-todos-os-modelos-estao-certos.html</a></p>
+        ]]>
+        </description>
+        <content:encoded>
+        <![CDATA[
+        <p>Uma conversa entre dois cientistas que trabalham com modelos matemáticos e abordagens computacionais no tema da precisão de estimativas e previsões e limitações desse tipo de abordagem.</p><p> Notas e referências: <a href='https://ministeriodaciencia.github.io/posts/2020-05-25-todos-os-modelos-estao-certos.html'>https://ministeriodaciencia.github.io/posts/2020-05-25-todos-os-modelos-estao-certos.html</a></p>
+        ]]>
+        </content:encoded>
+
+        <enclosure url="https://ministeriodaciencia.github.io/files/MC2.mp3" length="9160265" type="audio/mpeg"/>
+        <itunes:subtitle>Uma conversa entre dois cientistas que trabalham com modelos matemáticos e abordagens computacionais no tema da precisão de estimativas e previsões e limitações desse tipo de abordagem. Notas e referências: https://ministeriodaciencia.github.io/posts/2020-05-25-todos-os-modelos-estao-certos.html
+        </itunes:subtitle>
+        <itunes:summary>
+        Uma conversa entre dois cientistas que trabalham com modelos matemáticos e abordagens computacionais no tema da precisão de estimativas e previsões e limitações desse tipo de abordagem. Notas e referências: https://ministeriodaciencia.github.io/posts/2020-05-25-todos-os-modelos-estao-certos.html
+        </itunes:summary>
+        <itunes:author>ministeriodaciencia</itunes:author>
+        <itunes:explicit>yes</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>01:35:25</itunes:duration>
+                <itunes:episode>1</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://ministeriodaciencia.github.io/images/peixe-wavelet-gordo.png" />
+    </item>
 </channel>
 </rss>
