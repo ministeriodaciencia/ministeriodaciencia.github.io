@@ -7,7 +7,23 @@
         <description><![CDATA[Feed RSS do podcast]]></description>
         <atom:link href="https://ministeriodaciencia.github.io/rss.xml" rel="self"
                    type="application/rss+xml" />
-        <lastBuildDate>Unknown</lastBuildDate>
-        
+        <lastBuildDate>Mon, 25 May 2020 00:00:00 UT</lastBuildDate>
+        <item>
+    <title>#2. Todos os modelos estão certos, alguns são inúteis</title>
+    <link>https://ministeriodaciencia.github.io/posts/2020-05-25-todos-os-modelos-estao-certos.html</link>
+    <description><![CDATA[Todos os modelos estão certos, alguns são inúteis.]]></description>
+    <pubDate>Mon, 25 May 2020 00:00:00 UT</pubDate>
+    <guid>https://ministeriodaciencia.github.io/posts/2020-05-25-todos-os-modelos-estao-certos.html</guid>
+    <dc:creator>Caetano Souto Maior</dc:creator>
+</item>
+<item>
+    <title>#1. Onde houver fé que eu leve a dúvida</title>
+    <link>https://ministeriodaciencia.github.io/posts/2020-05-18-onde-houver-fe.html</link>
+    <description><![CDATA[Onde houver fé que eu leve a dúvida]]></description>
+    <pubDate>Mon, 18 May 2020 00:00:00 UT</pubDate>
+    <guid>https://ministeriodaciencia.github.io/posts/2020-05-18-onde-houver-fe.html</guid>
+    <dc:creator>Caetano Souto Maior</dc:creator>
+</item>
+
     </channel>
 </rss>
