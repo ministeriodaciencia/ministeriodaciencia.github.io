@@ -13,7 +13,7 @@ block: "no"
 voices: "Caetano Souto Maior, Daniel Damineli"
 ---
 
-[[audio]](https://ministeriodaciencia.github.io/files/MC1.mp3)
+[[audio download]](https://https://dts.podtrac.com/redirect.mp3/ministeriodaciencia.github.io/files/MC1.mp3)
 
 Neste episódio de abertura, os Biólogos Matemáticos/Computacionais Caetano Souto-Maior e Daniel Damineli discutem de forma livre sobre a suposta confiança excessiva na ciência em tempos de COVID-19. Abordamos o papel dos modelos matemáticos no desenho de políticas públicas, tocando na discrepância entre a expectativa da performance dos modelos versus o conhecimento básico de epidemiologia, bem como a função do questionamento informado no avanço do conhecimento científico versus negacionismo puro e simples.
 

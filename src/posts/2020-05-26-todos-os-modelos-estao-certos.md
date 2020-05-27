@@ -13,7 +13,7 @@ block: "no"
 voices: "Caetano Souto Maior, Daniel Damineli"
 ---
 
-[[audio]](https://ministeriodaciencia.github.io/files/MC2.mp3)
+[[audio download]](https://https://dts.podtrac.com/redirect.mp3/ministeriodaciencia.github.io/files/MC2.mp3)
 
 Uma conversa entre dois cientistas que trabalham com modelos matemáticos e abordagens computacionais no tema da precisão de estimativas e previsões e limitações desse tipo de abordagem.
 
