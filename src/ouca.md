@@ -1,13 +1,13 @@
 ---
 author: caetano souto maior
-title: ouça/assine
+title: ouça/assine/inscreva-se
 layout: default
 ---
 
 Os episódios do podcast estão disponíveis em diferentes plataformas:
 
-- _Feed_ [RSS](https://ministeriodaciencia.github.io/feed.xml)  próprio
--  Podbean [Feed](https://feed.podbean.com/ministeriodaciencia/feed.xml) ou [página](https://ministeriodaciencia.podbean.com/)
 - [Spotify](https://open.spotify.com/show/2ul8vRyxErrrjAGsgI6oYL?si=099PCms6SlWgmyqqxO8hLA)
-- Apple (aguardando verificação)
-- Google (aguardando verificação)
+- [Apple](https://podcasts.apple.com/us/podcast/minist%C3%A9rio-da-ciencia/id1514281883)
+- [Google](https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL21pbmlzdGVyaW9kYWNpZW5jaWEvZmVlZC54bWw&ep=14)
+-  Podbean ([_Feed_](https://feed.podbean.com/ministeriodaciencia/feed.xml) ou [página](https://ministeriodaciencia.podbean.com/))
+- _Feed_ [RSS](https://ministeriodaciencia.github.io/feed.xml)  próprio

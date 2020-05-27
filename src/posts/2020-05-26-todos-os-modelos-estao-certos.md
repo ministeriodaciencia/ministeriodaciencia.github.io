@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "#2. Todos os modelos estão certos, alguns são inúteis"
-date: 2020-18-05
+date: 2020-26-05
 file: https://ministeriordaciencia.github.io/files/MC2.mp3
 summary: "Todos os modelos estão certos, alguns são inúteis."
 description: "Todos os modelos estão certos, alguns são inúteis."
@@ -60,3 +60,5 @@ Referências:
 - [Efeito de subnotificação e atrasos nas estimativas (Observatório COVID-19)](https://twitter.com/obscovid19br/status/1262166415160807424)
 
 Recomendamos o Observatório COVID-19 para as informações mais atuais e tecnicamente competentes sobre a pandemia no Brasil: [https://covid19br.github.io/](https://covid19br.github.io/)
+
+_Música: Alcova Rubra - I; Novos Baianos - Mistério do planeta_

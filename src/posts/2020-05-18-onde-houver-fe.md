@@ -37,3 +37,5 @@ Referências:
 - [Joe Rogan & Jarrod Carmichael (NÃO Carlisle!) sobre o negacionismo da ida à lua](https://www.youtube.com/watch?v=Mjk7ySgEPCA)
 
 - [Bayesian Decision Making](http://www.statsathome.com/2017/10/12/bayesian-decision-theory-made-ridiculously-simple/)
+
+_Música: Alcova Rubra - I; Falcão - Onde houver fé que eu leve a dúvida_
