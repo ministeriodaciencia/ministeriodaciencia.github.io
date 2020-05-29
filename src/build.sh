@@ -53,7 +53,7 @@ git checkout master # --track origin/master
 
 # Overwrite existing files with new files
 # cp -archive _site/. ../
-cp -a src/_site/. .
+cp -a $GITDIR/ministeriodaciencia.github.io/src/_site/. $GITDIR/ministeriodaciencia.github.io/
 
 # Commit
 git stage -A
