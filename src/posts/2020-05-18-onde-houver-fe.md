@@ -38,4 +38,4 @@ Referências:
 
 - [Bayesian Decision Making](http://www.statsathome.com/2017/10/12/bayesian-decision-theory-made-ridiculously-simple/)
 
-_Música: Alcova Rubra - I; Falcão - Onde houver fé que eu leve a dúvida_
+_Música: Alcova Rubra - I; (incidental) Falcão - Onde houver fé que eu leve a dúvida_

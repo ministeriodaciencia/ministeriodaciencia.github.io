@@ -61,4 +61,4 @@ Referências:
 
 Recomendamos o Observatório COVID-19 para as informações mais atuais e tecnicamente competentes sobre a pandemia no Brasil: [https://covid19br.github.io/](https://covid19br.github.io/)
 
-_Música: Alcova Rubra - I; Novos Baianos - Mistério do planeta_
+_Música: Alcova Rubra - I; (incidental) Novos Baianos - Mistério do planeta_
