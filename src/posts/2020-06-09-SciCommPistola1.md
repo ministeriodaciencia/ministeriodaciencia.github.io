@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SciComm Pistola #1"
+title: "SciComm Pistola #1: Filhos da Puta et al."
 date: 2020-06-09
 file: https://ministeriordaciencia.github.io/files/MC3.mp3
 summary: "SciComm Pistola #1"
@@ -56,6 +56,6 @@ Referências:
 
 - [Modelo matemático de protesto e seu policiamento](https://www.nature.com/articles/srep01303)
 
-- [Música de encerramento de Cannonball Adderley](http://somethingelsereviews.com/2008/09/27/one-track-mind-julian-cannonball-adderley-walk-tall-1969/)
+- [Música de Cannonball Adderley](http://somethingelsereviews.com/2008/09/27/one-track-mind-julian-cannonball-adderley-walk-tall-1969/)
 
 _Música: Alcova Rubra - I; (incidental) The Cannonball Adderley Quintet - Walk Tall_
