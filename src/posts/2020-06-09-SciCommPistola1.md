@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SciComm Pistola #1"
-date: 2020-09-06
+date: 2020-06-09
 file: https://ministeriordaciencia.github.io/files/MC3.mp3
 summary: "SciComm Pistola #1"
 description: "SciComm Pistola #1"
