@@ -29,35 +29,18 @@ customPandocCompiler =
 
 main :: IO ()
 main = hakyll $ do
-    match "images/*" $ do
+
+    match (fromList ["images/*", "files/*", "css/*", "scripts/*", "LICENSE.md", "feed.xml"]) $ do
         route   idRoute
         compile copyFileCompiler
 
-    match "files/*" $ do
-        route   idRoute
-        compile copyFileCompiler
-
-    match "css/*" $ do
-        route   idRoute
-        compile copyFileCompiler  -- compressCssCompiler
-
-    match "scripts/*" $ do
-        route   idRoute
-        compile copyFileCompiler
-
-    match "LICENSE.md" $ do
-        route   idRoute
-        compile copyFileCompiler
-
-    match "feed.xml" $ do
-        route   idRoute
-        compile copyFileCompiler
 
     match (fromList ["ouca.md", "apoio.md"]) $ do
         route   $ setExtension "html"
         compile $ pandocCompiler
             >>= loadAndApplyTemplate "templates/default.html" defaultContext
             >>= relativizeUrls
+
 
     match "posts/*" $ do
         route $ setExtension "html"
@@ -66,6 +49,7 @@ main = hakyll $ do
             >>= saveSnapshot "content"
             >>= loadAndApplyTemplate "templates/default.html" postCtx
             >>= relativizeUrls
+
 
     -- Create RSS feed as well
     create ["rss.xml"] $ do
@@ -76,6 +60,7 @@ main = hakyll $ do
                 loadAllSnapshots "posts/*" "content"
             renderRss feedConfiguration feedCtx posts
 
+
     create ["episodios.html"] $ do
         route idRoute
         compile $ do
@@ -84,7 +69,6 @@ main = hakyll $ do
                     listField "posts" postCtx (return posts) `mappend`
                     constField "title" "episódios"           `mappend`
                     defaultContext
-
             makeItem ""
                 >>= loadAndApplyTemplate "templates/post-list.html" archiveCtx
                 >>= loadAndApplyTemplate "templates/default.html" archiveCtx
@@ -99,11 +83,11 @@ main = hakyll $ do
                     listField "posts" postCtx (return posts) `mappend`
                     constField "title" "sobre"               `mappend`
                     defaultContext
-
             getResourceBody
                 >>= applyAsTemplate indexCtx
                 >>= loadAndApplyTemplate "templates/default.html" indexCtx
                 >>= relativizeUrls
+
 
     match "templates/*" $ compile templateBodyCompiler
 
