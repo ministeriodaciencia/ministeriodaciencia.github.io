@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Não me COVID pra essa festa pobre"
-date: 2020-06-09
+date: 2020-06-23
 file: https://ministeriordaciencia.github.io/files/MC4.mp3
 summary: "Não me COVID pra essa festa pobre"
 description: "Não me COVID pra essa festa pobre"
