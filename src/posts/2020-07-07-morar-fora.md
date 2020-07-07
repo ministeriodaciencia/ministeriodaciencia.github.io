@@ -26,7 +26,7 @@ Trump baniu vistos que afetam diretamente a Academia. Mas como é a relação da
 - [Bolha do espaço pessoal, o distanciamento social pré-COVID](https://www.rightattitudes.com/2007/04/03/personal-spaces-interaction/)
 - [Teoria da bolha do espaço pessoal: “proxemics”](https://www.psychologytoday.com/us/blog/the-shaping-us/202006/the-erotic-return-footsie)
 - [Sim, a bolha do espaço pessoal é uma idéia comum](https://lizprovasi.wordpress.com/2012/04/01/personal-space/)
-- [Trump é mais eficaz contra imigrantes legais do que ilegais (https://www.ft.com/content/8098e5c6-b610-11ea-8ecb-0994e384dffe)
+- [Trump é mais eficaz contra imigrantes legais do que ilegais](https://www.ft.com/content/8098e5c6-b610-11ea-8ecb-0994e384dffe)
 
 - [As instituições Americanas perdem direta e indiretamente por negar vistos](https://twitter.com/umairagri/status/1278199652504961025)
 - [Relato das dificuldades de ser um cientista imigrante nos EUA](https://twitter.com/blekhman/status/1275243184914915331)
