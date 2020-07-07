@@ -36,15 +36,17 @@ if [ $COPY = true ]; then
     rm -rf $GITDIR/ministeriodaciencia.github.io/copy/.stack-work
 fi
 
-# git stage <modified files here>
-git stage .
-git commit -m "hakyll build"
-git push origin develop
-
 # Build new files
 stack exec site clean
 stack exec site build
 # stack exec site watch
+
+rm $GITDIR/ministeriodaciencia.github.io/src/files/*.mp3
+
+# git stage <modified files here>
+git stage .
+git commit -m "hakyll build"
+git push origin develop
 
 # Get previous files
 #git fetch --all
