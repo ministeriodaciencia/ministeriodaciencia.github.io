@@ -30,10 +30,29 @@ customPandocCompiler =
 main :: IO ()
 main = hakyll $ do
 
-    match (fromList ["images/*", "files/*", "css/*", "scripts/*", "LICENSE.md", "feed.xml"]) $ do
+    match "images/*" $ do
         route   idRoute
         compile copyFileCompiler
 
+    match "css/*" $ do
+        route   idRoute
+        compile copyFileCompiler  -- compressCssCompiler
+
+    match "scripts/*" $ do
+        route   idRoute
+        compile copyFileCompiler
+
+    match "files/*" $ do
+        route   idRoute
+        compile copyFileCompiler
+
+    match "feed.xml" $ do
+        route   idRoute
+        compile copyFileCompiler
+
+    match "LICENSE.md" $ do
+        route   idRoute
+        compile copyFileCompiler
 
     match (fromList ["ouca.md", "apoio.md"]) $ do
         route   $ setExtension "html"
