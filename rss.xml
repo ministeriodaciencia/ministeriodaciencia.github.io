@@ -7,8 +7,16 @@
         <description><![CDATA[Feed RSS do podcast]]></description>
         <atom:link href="https://ministeriodaciencia.github.io/rss.xml" rel="self"
                    type="application/rss+xml" />
-        <lastBuildDate>Tue, 07 Jul 2020 00:00:00 UT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jul 2020 00:00:00 UT</lastBuildDate>
         <item>
+    <title>U Can't touch this</title>
+    <link>https://ministeriodaciencia.github.io/posts/2020-07-21-cant-touch-this.html</link>
+    <description><![CDATA[U Can't touch this]]></description>
+    <pubDate>Tue, 21 Jul 2020 00:00:00 UT</pubDate>
+    <guid>https://ministeriodaciencia.github.io/posts/2020-07-21-cant-touch-this.html</guid>
+    <dc:creator>Caetano Souto Maior</dc:creator>
+</item>
+<item>
     <title>Morar fora é bom, mas é uma merda; Morar no Brasil é uma merda, mas é bom</title>
     <link>https://ministeriodaciencia.github.io/posts/2020-07-07-morar-fora.html</link>
     <description><![CDATA[Morar fora é bom, mas é uma merda; Morar no Brasil é uma merda, mas é bom]]></description>
