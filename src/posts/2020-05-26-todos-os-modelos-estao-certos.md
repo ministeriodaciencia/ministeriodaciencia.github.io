@@ -20,7 +20,7 @@ Uma conversa entre dois cientistas que trabalham com modelos matemáticos e abor
 <!-- Notas e referências: https://ministeriodaciencia.github.io/posts/2020-05-25-todos-os-modelos-estao-certos.html -->
 
 
-Referências:
+#### Referências:
 
 - [Explicando uma epidemia e simulações - 3 Blue & 1 Brown](https://www.youtube.com/watch?v=gxAaO2rsdIs&t=2s)
 

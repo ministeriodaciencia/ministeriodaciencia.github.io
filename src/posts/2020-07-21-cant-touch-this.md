@@ -21,7 +21,8 @@ voices: "Caetano Souto Maior, Daniel Damineli"
 
 Em um deja vu retro, discutimos em uma segunda onda a tal imunidade de rebanho, cloroquina e o futuro da epidemia. Haverá segunda onda? Estamos protegidos? Revistas científicas devem publicar conteúdo polêmico? E jornalistas, devem interpretar estudos e fazer a sua receita caseira para entender a pandemia? Tocamos nisso sem poder e seguimos o MC Hammer no Twitter.
 
-### Referências :
+#### Referências :
+
 - [Artigo de imunidade de rebanho com o Caetano](https://www.medrxiv.org/content/10.1101/2020.04.27.20081893v3)
 - [Science: modelo matemático da imunidade de rebanho](https://science.sciencemag.org/content/early/2020/06/22/science.abc6810)
 - [Capa da folha: estamos imunes e não tem 2a onda](https://www1.folha.uol.com.br/cotidiano/2020/07/curva-da-covid-sugere-imunidade-maior-e-segunda-onda-menos-provavel.shtml)

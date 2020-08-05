@@ -20,7 +20,7 @@ Neste episódio de abertura, os Biólogos Matemáticos/Computacionais Caetano So
 Recomendamos o Observatório COVID-19 para as informações mais atuais e tecnicamente competentes sobre a pandemia no Brasil: [https://covid19br.github.io/](https://covid19br.github.io/)
 
 
-Referências:
+#### Referências:
 
 - [Evangélicos criticam o endeusamento da ciência](https://saidapeladireita.blogfolha.uol.com.br/2020/05/08/lideres-evangelicos-criticam-endeusamento-da-ciencia-na-crise-do-coronavirus/)
 

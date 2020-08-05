@@ -18,16 +18,12 @@ voices: "Caetano Souto Maior, Daniel Damineli"
 
 Alegações extraordinárias requerem evidências extraordinárias. Ou pelo menos robustas. ETs entre nós ou história de interesse geopolítico? Cadê todas as outras evidência esperadas de visitantes alienígenas? A cloroquina funciona em alguma dose cabalística, com zinco e açafrão do Himaláia? Discutimos as funções políticas, subjetivas e psíquicas que uma realidade mais excitante podem ter. Concluímos com um elogio à chatice.
 
-### Referências :
-Links:
+#### Referências :
+
 - [OVNIs no NY Times](https://www.nytimes.com/2020/04/28/us/pentagon-ufo-videos.html)
-
 - [Astrofísico diz que são ETs](https://www.fox10phoenix.com/news/not-made-on-this-earth-top-secret-pentagon-ufo-task-force-reportedly-expected-to-reveal-some-findings)
-
 - [Estudo pró-cloroquina tem falhas críticas](https://www.youtube.com/watch?v=RkNC5OQD2UE)
-
 - [Texto ótimo do dia após nossa gravação sobre a ilusão perigosa e lucrativa de uma autópsia ET](https://www.revistaquestaodeciencia.com.br/apocalipse-now/2020/08/01/licoes-de-uma-autopsia-alienigena)
-
 - [Estamos sós? Equação de Drake interativa](http://www.bbc.com/future/bespoke/drake)
 
 

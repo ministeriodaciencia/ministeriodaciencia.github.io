@@ -21,7 +21,7 @@ Parte 1 de infinito da coversa sobre tudo o que está errado na ciência, e como
 <!-- Notas e referências: https://ministeriodaciencia.github.io/posts/2020-06-09-SciCommPistola1.html -->
 
 
-Referências:
+#### Referências:
 
 
 - [Observatório COVID-19 é uma referência para dados atuais e tecnicamente competentes sobre a pandemia no Brasil](https://covid19br.github.io/)

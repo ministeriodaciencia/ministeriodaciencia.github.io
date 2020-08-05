@@ -20,7 +20,7 @@ Descrição Ministério da Ciência episódio 5: Viver no exterior é bom, mas �
 Trump baniu vistos que afetam diretamente a Academia. Mas como é a relação da imigração temporária e pesquisa? De fato oferece riscos ao mercado de trabalho dos estadunidenses? Contamos com duas convidadas especiais, Ana Ribeiro e Maria Teresa Portes, para relatar em primeira pessoa as idiossincrasias dessa experiência e caracterizar o tiroteiro nos pés que esse presidente tem dado.
 
 
-## Referências :
+#### Referências :
 
 - [Trump suspende vistos que “ameaçam” empregos de estadunidenses](https://www.whitehouse.gov/presidential-actions/proclamation-suspending-entry-aliens-present-risk-u-s-labor-market-following-coronavirus-outbreak/)
 - [Bolha do espaço pessoal, o distanciamento social pré-COVID](https://www.rightattitudes.com/2007/04/03/personal-spaces-interaction/)

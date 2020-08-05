@@ -25,7 +25,8 @@ Além da imagem de egoísmo e auto-promoção associada à pesquisa científica,
 <!-- Notas e referências: https://ministeriodaciencia.github.io/posts/2020-06-23-nao-me-COVID.html -->
 
 
-Referências:
+#### Referências:
+
 - [Declaração da Science/AAAS sobre racismo sistêmico](https://science.sciencemag.org/content/368/6496/1161?utm_campaign=SciMag&utm_source=JHubbard&utm_medium=Twitter / https://twitter.com/thermoflynamics/status/1270766130236399620?s=20)
 
 - [What Black scientists want from colleagues and their institutions](https://www.nature.com/articles/d41586-020-01883-8)
