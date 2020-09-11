@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "SciComm Pistola #2: O novo normal"
-date: 2020-08-21
+date: 2020-09-11
 file: https://ministeriordaciencia.github.io/files/MC9.mp3
 summary: "SciComm Pistola #2"
 description: "SciComm Pistola #2"
-duration: "56:24"
-length: "54147589"
+duration: "1:08:48"
+length: "33024774"
 explicit: "Yes"
 keywords: "SciComm-Pistola"
 block: "no"
