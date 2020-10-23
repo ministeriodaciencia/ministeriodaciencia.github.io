@@ -19,8 +19,8 @@ voices: "Caetano Souto Maior, Daniel Damineli"
 Descrição: Civilização alienígena não sei, mas civilizações de alienados é o nosso dia a dia até mesmo na ciência. Fosfina em Vênus vem de overfitting ou laboratórios de incas venusianos? Arqueologia alienígena ou coelhos de poeira cósmica? Designers de artefatos mentais abundam até mesmo nas esferas mais altas da ciência e divulgação dela, infelizmente tendo efeitos concretos inclusive na pandemia.
 
 - [Fosfina em Vênus](https://www.nature.com/articles/s41550-020-1174-4)
-- [Fosfina em Vênus? (contestação dos resultados divulgada logo após gravação do podcast)](https://www.nature.com/articles/s41550-020-1174-4)
-https://www.forbes.com/sites/startswithabang/2020/10/22/venus-is-dead-new-analysis-shows-phosphine-a-possible-biosignature-is-absent/#4464527b50ba
+- [Fosfina em Vênus? (contestação dos resultados divulgada logo após gravação do podcast)](
+https://www.forbes.com/sites/startswithabang/2020/10/22/venus-is-dead-new-analysis-shows-phosphine-a-possible-biosignature-is-absent/#4464527b50ba)
 - [Problemas nos métodos do paper da fosfina](https://www.forbes.com/sites/startswithabang/2020/10/22/venus-is-dead-new-analysis-shows-phosphine-a-possible-biosignature-is-absent/#fc3b5a750bad)
 - [Estrela com Dyson sphere?](https://www.theatlantic.com/science/archive/2015/10/the-most-interesting-star-in-our-galaxy/410023/)
 - [Escala de Kardashev](https://www.youtube.com/watch?v=rhFK5_Nx9xY)
