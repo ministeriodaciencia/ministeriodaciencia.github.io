@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "#11 A Ciência é objetiva"
+title: "#11 A Ciência é objetiva?"
 date: 2020-11-06
 file: https://ministeriordaciencia.github.io/files/MC11.mp3
-summary: "A Ciência é objetiva"
-description: "A Ciência é objetiva"
+summary: "A Ciência é objetiva?"
+description: "A Ciência é objetiva?"
 duration: "1:23:27"
 length: "40059273"
 explicit: "Yes"
