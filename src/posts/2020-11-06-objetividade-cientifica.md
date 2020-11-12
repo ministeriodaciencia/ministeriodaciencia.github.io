@@ -18,8 +18,6 @@ voices: "Caetano Souto Maior, Daniel Damineli"
 
 A Ciência é objetiva? Digamos que ela é esforçada. Enquanto atividade humana sempre vai ter politização, enquanto método de conhecimento idealmente seria só uma maquininha. Falamos das fontes de distorção do ideal objetivista tanto na construção dessa máquina, nos dados que colocamos nela (input) e na interpretação dos resultados (output). Outras formas de conhecimento não deveriam invejar o seu poder, que vem de sua limitação, ainda mais se for usar o que ela tem de mais problemático. Use mas não abuse, e lembre que não precisa da marca “ciência” pra ser válido!
 
-
-Links:
 - [A falácia da produtividade como propriedade intrínseca da nacionalidade](https://exame.com/edicoes/1025/)
 - [Causalidade de Granger](https://en.wikipedia.org/wiki/Granger_causality)
 - [Modelos e Estatística Causal](https://plato.stanford.edu/entries/causal-models/)
