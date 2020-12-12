@@ -7,8 +7,16 @@
         <description><![CDATA[Feed RSS do podcast]]></description>
         <atom:link href="https://ministeriodaciencia.github.io/rss.xml" rel="self"
                    type="application/rss+xml" />
-        <lastBuildDate>Tue, 24 Nov 2020 00:00:00 UT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Dec 2020 00:00:00 UT</lastBuildDate>
         <item>
+    <title>#13 Pesquisa guiada por hipóteses: realidade ou narrativa?</title>
+    <link>https://ministeriodaciencia.github.io/posts/2020-12-11-HDR.html</link>
+    <description><![CDATA[Pesquisa guiada por hipóteses: realidade ou narrativa?]]></description>
+    <pubDate>Fri, 11 Dec 2020 00:00:00 UT</pubDate>
+    <guid>https://ministeriodaciencia.github.io/posts/2020-12-11-HDR.html</guid>
+    <dc:creator>Caetano Souto Maior</dc:creator>
+</item>
+<item>
     <title>#12 Scientific Excellence Total Landscaping</title>
     <link>https://ministeriodaciencia.github.io/posts/2020-11-24-scientific-excelence.html</link>
     <description><![CDATA[Scientific Excellence Total Landscaping]]></description>
