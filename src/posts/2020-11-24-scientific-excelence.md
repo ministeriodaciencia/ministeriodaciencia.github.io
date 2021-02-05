@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#12 Scientific Excellence Total Landscaping"
+title: "#12. Scientific Excellence Total Landscaping"
 date: 2020-11-24
 file: https://ministeriordaciencia.github.io/files/MC12.mp3
 summary: "Scientific Excellence Total Landscaping"

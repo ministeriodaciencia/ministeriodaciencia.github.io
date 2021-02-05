@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#10 Alegações extraordinárias 2: Alienígenas e Alienados"
+title: "#10. Alegações extraordinárias 2: Alienígenas e Alienados"
 date: 2020-10-23
 file: https://ministeriordaciencia.github.io/files/MC10.mp3
 summary: "Alegações extraordinárias 2: Alienígenas e Alienados"

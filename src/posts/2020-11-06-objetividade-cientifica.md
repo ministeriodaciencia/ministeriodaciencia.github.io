@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#11 A Ciência é objetiva?"
+title: "#11. A Ciência é objetiva?"
 date: 2020-11-06
 file: https://ministeriordaciencia.github.io/files/MC11.mp3
 summary: "A Ciência é objetiva?"
