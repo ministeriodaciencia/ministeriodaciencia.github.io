@@ -7,8 +7,16 @@
         <description><![CDATA[Feed RSS do podcast]]></description>
         <atom:link href="https://ministeriodaciencia.github.io/rss.xml" rel="self"
                    type="application/rss+xml" />
-        <lastBuildDate>Fri, 05 Feb 2021 00:00:00 UT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Feb 2021 00:00:00 UT</lastBuildDate>
         <item>
+    <title>#16. Vacinas, Variantes, Variáveis e Variância</title>
+    <link>https://ministeriodaciencia.github.io/posts/2021-02-18-V4.html</link>
+    <description><![CDATA[Vacinas, Variantes, Variáveis e Variância]]></description>
+    <pubDate>Thu, 18 Feb 2021 00:00:00 UT</pubDate>
+    <guid>https://ministeriodaciencia.github.io/posts/2021-02-18-V4.html</guid>
+    <dc:creator>Caetano Souto Maior</dc:creator>
+</item>
+<item>
     <title>#15. Salvação da Ciência (eu sei o que vocês não fizeram no verão passado)</title>
     <link>https://ministeriodaciencia.github.io/posts/2021-02-05-salva.html</link>
     <description><![CDATA[Salvação da Ciência]]></description>
